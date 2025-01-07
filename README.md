@@ -5,7 +5,7 @@ printing, left/right rotation, and exchanging elements.
 ## Functions
 
 Signatures written in C
-style for readability):
+style for readability:
 
 1. ```inVect(int size, int[] vector)```
 Constructs a vector of integers
